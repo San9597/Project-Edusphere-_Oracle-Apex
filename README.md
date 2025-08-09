@@ -3,6 +3,8 @@
 within institutions. Built using Oracle APEX, it integrates advanced features to support 
 students, faculty, and administrators in managing academic activities seamlessly. 
 
+Project Link : https://apex.oracle.com/pls/apex/r/fresa25_intern/demoproject/home?session=10843931570019
+
 Project Overview : 
 EduSphere is an all-in-one digital education solution that enhances academic engagement by 
 integrating modern technological advancements. The platform provides a structured, 
