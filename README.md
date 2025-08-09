@@ -19,6 +19,8 @@ institution-wide news updates.
 • Secure Administration: A robust portal for managing institutional operations and 
 student records.
 
+<img width="804" height="802" alt="image" src="https://github.com/user-attachments/assets/1ce3c1da-7503-4a67-9aae-c5c32e108041" />
+
 Project Summary :
 EduSphere is a groundbreaking educational platform that leverages modern technology to 
 create an enhanced academic environment. With a focus on smart learning, digital 
